@@ -1,4 +1,4 @@
-# Inventory HUD - Ascent Modification
+# Ascent Gaming Modified InventoryHUD
 
 ## Ascent Changes
 
