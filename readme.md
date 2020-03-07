@@ -1,8 +1,6 @@
 # Ascent Gaming Modified InventoryHUD
 
-## Ascent Changes
-
-
+[You should probably use an updated version of the original](https://github.com/DiscworldZA/disc-inventoryhud); unless you know for a fact this particular copy from this particular point in time works better for you.
 
 ## ESX Compatibility
 
